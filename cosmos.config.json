@@ -1,0 +1,103 @@
+[
+  {
+    "chainId": "bitcanna-1",
+    "name": "BitCanna",
+    "apiURL": "https://lcd.bitcanna.io",
+    "rpcURL": "https://rpc.bitcanna.io",
+    "coinLookup": {
+      "viewDenom": "BCNA",
+      "chainDenom": "ubcna",
+      "addressPrefix": "bcna",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg",
+      "banner": "https://demo.cosmos-tool.com//wp-content/plugins/cosmos-woocomerce/public/img/BitCanna.png"
+    },
+    "fee": {
+      "amount": 5000,
+      "gas": 420000
+    },    
+    "coingeckoId": "bitcanna",
+    "mintscanId": "bitcanna",
+    "active": "true"
+  },
+  {
+    "chainId": "chihuahua-1",
+    "name": "Chihuahua",
+    "apiURL": "https://api.chihuahua.wtf",
+    "rpcURL": "https://rpc.chihuahua.wtf",
+    "coinLookup": {
+      "viewDenom": "HUAHUA",
+      "chainDenom": "uhuahua",
+      "addressPrefix": "chihuahua",
+      "icon": "https://avatars.githubusercontent.com/u/94940349?v=4",
+      "banner": "https://demo.cosmos-tool.com/wp-content/plugins/cosmos-woocomerce/public/img/Chihuahua.png"
+    },
+    "fee": {
+      "amount": 5000,
+      "gas": 200000
+    },     
+    "coingeckoId": "chihuahua-token",
+    "mintscanId": "chihuahua",
+    "active": "true"
+  },
+  {
+    "chainId": "stargaze-1",
+    "name": "Stargaze",
+    "apiURL": "https://api.stars.kingnodes.com",
+    "rpcURL": "https://rpc.stargaze-apis.com",
+    "coinLookup": {
+      "viewDenom": "STARS",
+      "chainDenom": "ustars",
+      "addressPrefix": "stars",
+      "icon": "https://raw.githubusercontent.com/public-awesome/assets/main/images/stars.png",
+      "banner": "https://demo.cosmos-tool.com/wp-content/plugins/cosmos-woocomerce/public/img/Stargaze.png"
+    },
+    "fee": {
+      "amount": 5000,
+      "gas": 200000
+    },     
+    "coingeckoId": "stargaze",
+    "mintscanId": "stargaze",
+    "active": "true"
+  },
+  {
+    "chainId": "akashnet-2",
+    "name": "Akash",
+    "apiURL": "https://lcd-akash.cosmostation.io",
+    "rpcURL": "https://rpc.akash.forbole.com",
+    "coinLookup": {
+      "viewDenom": "AKT",
+      "chainDenom": "uakt",
+      "addressPrefix": "akash",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.svg",
+      "banner": "https://demo.cosmos-tool.com/wp-content/plugins/cosmos-woocomerce/public/img/Akash.png"
+    },
+    "fee": {
+      "amount": 5000,
+      "gas": 200000
+    },     
+    "coingeckoId": "akash-network",
+    "mintscanId": "akash",
+    "active": "true"
+  },
+  {
+    "chainId": "osmosis-1",
+    "name": "Osmosis",
+    "desc": "Osmosis is a decentralized peer-to-peer blockchain that people can use to create liquidity and trade IBC enabled tokens.",
+    "apiURL": "https://lcd-osmosis.blockapsis.com",
+    "rpcURL": "https://osmosis.validator.network",
+    "coinLookup": {
+      "viewDenom": "OSMO",
+      "chainDenom": "uosmo",
+      "addressPrefix": "osmo",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.svg",
+      "banner": "https://demo.cosmos-tool.com/wp-content/plugins/cosmos-woocomerce/public/img/Akash.png"
+    }, 
+    "fee": {
+      "amount": 5000,
+      "gas": 200000
+    },     
+    "coingeckoId": "osmosis",
+    "mintscanId": "osmosis",
+    "active": "true"    
+  }
+]

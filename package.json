@@ -1,0 +1,26 @@
+{
+  "name": "cosmos-endpoints-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atmoner/cosmos-endpoints-online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atmoner/cosmos-endpoints-online/issues"
+  },
+  "homepage": "https://github.com/atmoner/cosmos-endpoints-online#readme",
+  "dependencies": {
+    "chain-registry": "^0.8.1",
+    "node-fetch": "^3.2.10",
+    "ws": "^8.8.1"
+  }
+}
