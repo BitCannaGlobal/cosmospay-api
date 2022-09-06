@@ -17,7 +17,8 @@
     },
     "coingeckoId": "bitcanna",
     "mintscanId": "bitcanna",
-    "active": "true"
+    "active": "true",
+    "lastUpdate": "2022-09-06T17:47:27.591Z"
   },
   {
     "chainId": "chihuahua-1",
@@ -37,7 +38,8 @@
     },
     "coingeckoId": "chihuahua-token",
     "mintscanId": "chihuahua",
-    "active": "true"
+    "active": "true",
+    "lastUpdate": "2022-09-06T17:47:27.591Z"
   },
   {
     "chainId": "stargaze-1",
@@ -57,7 +59,8 @@
     },
     "coingeckoId": "stargaze",
     "mintscanId": "stargaze",
-    "active": "true"
+    "active": "true",
+    "lastUpdate": "2022-09-06T17:47:27.591Z"
   },
   {
     "chainId": "akashnet-2",
@@ -77,7 +80,8 @@
     },
     "coingeckoId": "akash-network",
     "mintscanId": "akash",
-    "active": "true"
+    "active": "true",
+    "lastUpdate": "2022-09-06T17:47:27.591Z"
   },
   {
     "chainId": "osmosis-1",
@@ -98,6 +102,7 @@
     },
     "coingeckoId": "osmosis",
     "mintscanId": "osmosis",
-    "active": "true"
+    "active": "true",
+    "lastUpdate": "2022-09-06T17:47:27.591Z"
   }
 ]
