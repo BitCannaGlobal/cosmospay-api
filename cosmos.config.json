@@ -3,7 +3,7 @@
     "chainId": "bitcanna-1",
     "name": "BitCanna",
     "apiURL": "https://lcd.bitcanna.io",
-    "rpcURL": "https://rpc.bitcanna.io",
+    "rpcURL": "https://rpc.bitcanna.io/",
     "coinLookup": {
       "viewDenom": "BCNA",
       "chainDenom": "ubcna",
@@ -14,7 +14,7 @@
     "fee": {
       "amount": 5000,
       "gas": 420000
-    },    
+    },
     "coingeckoId": "bitcanna",
     "mintscanId": "bitcanna",
     "active": "true"
@@ -22,8 +22,8 @@
   {
     "chainId": "chihuahua-1",
     "name": "Chihuahua",
-    "apiURL": "https://api.chihuahua.wtf",
-    "rpcURL": "https://rpc.chihuahua.wtf",
+    "apiURL": "https://api.chihuahua.wtf/",
+    "rpcURL": "https://rpc.chihuahua.wtf/",
     "coinLookup": {
       "viewDenom": "HUAHUA",
       "chainDenom": "uhuahua",
@@ -34,7 +34,7 @@
     "fee": {
       "amount": 5000,
       "gas": 200000
-    },     
+    },
     "coingeckoId": "chihuahua-token",
     "mintscanId": "chihuahua",
     "active": "true"
@@ -42,8 +42,8 @@
   {
     "chainId": "stargaze-1",
     "name": "Stargaze",
-    "apiURL": "https://api.stars.kingnodes.com",
-    "rpcURL": "https://rpc.stargaze-apis.com",
+    "apiURL": "https://api.stargaze.pupmos.network/",
+    "rpcURL": "https://rpc.stargaze.pupmos.network/",
     "coinLookup": {
       "viewDenom": "STARS",
       "chainDenom": "ustars",
@@ -54,7 +54,7 @@
     "fee": {
       "amount": 5000,
       "gas": 200000
-    },     
+    },
     "coingeckoId": "stargaze",
     "mintscanId": "stargaze",
     "active": "true"
@@ -62,8 +62,8 @@
   {
     "chainId": "akashnet-2",
     "name": "Akash",
-    "apiURL": "https://lcd-akash.cosmostation.io",
-    "rpcURL": "https://rpc.akash.forbole.com",
+    "apiURL": "https://api.akash.forbole.com:443",
+    "rpcURL": "https://rpc.akash.forbole.com:443",
     "coinLookup": {
       "viewDenom": "AKT",
       "chainDenom": "uakt",
@@ -74,7 +74,7 @@
     "fee": {
       "amount": 5000,
       "gas": 200000
-    },     
+    },
     "coingeckoId": "akash-network",
     "mintscanId": "akash",
     "active": "true"
@@ -83,21 +83,21 @@
     "chainId": "osmosis-1",
     "name": "Osmosis",
     "desc": "Osmosis is a decentralized peer-to-peer blockchain that people can use to create liquidity and trade IBC enabled tokens.",
-    "apiURL": "https://lcd-osmosis.blockapsis.com",
-    "rpcURL": "https://osmosis.validator.network",
+    "apiURL": "https://osmosis-lcd.quickapi.com:443",
+    "rpcURL": "https://osmosis-rpc.quickapi.com:443",
     "coinLookup": {
       "viewDenom": "OSMO",
       "chainDenom": "uosmo",
       "addressPrefix": "osmo",
       "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.svg",
       "banner": "https://demo.cosmos-tool.com/wp-content/plugins/cosmos-woocomerce/public/img/Akash.png"
-    }, 
+    },
     "fee": {
       "amount": 5000,
       "gas": 200000
-    },     
+    },
     "coingeckoId": "osmosis",
     "mintscanId": "osmosis",
-    "active": "true"    
+    "active": "true"
   }
 ]
