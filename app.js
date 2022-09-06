@@ -50,14 +50,18 @@ var finalData = []
 async function start() {
   let getChains = fs.readFileSync('cosmos.config.json')
   let getChainsJson = JSON.parse(getChains)
+  let datetime = new Date()
   
   for (const chain of getChainsJson) {  
     chain.apiURL = await getLcd(chain.name.toLowerCase())
     chain.rpcURL = await getRpc(chain.name.toLowerCase())
+    chain.lastUpdate = datetime
   }
-
-  fs.writeFileSync("cosmos.config.json", JSON.stringify(getChainsJson, null, 2))    
+  fs.writeFile("cosmos.config.json", JSON.stringify(getChainsJson, null, 2), (err) => {
+    if (err) { console.log(err); }
+    console.log("Task done!");
+  });
+ 
 }  
   
 start()
- 
