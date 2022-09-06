@@ -1,5 +1,5 @@
 {
-  "name": "cosmos-endpoints-online",
+  "name": "Cosmos-Pay",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atmoner/cosmos-endpoints-online.git"
+    "url": "git+https://github.com/BitCannaGlobal/Cosmos-Pay.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atmoner/cosmos-endpoints-online/issues"
+    "url": "https://github.com/BitCannaGlobal/Cosmos-Pay/issues"
   },
-  "homepage": "https://github.com/atmoner/cosmos-endpoints-online#readme",
+  "homepage": "https://github.com/BitCannaGlobal/Cosmos-Pay#readme",
   "dependencies": {
     "chain-registry": "^0.8.1",
     "node-fetch": "^3.2.10",
