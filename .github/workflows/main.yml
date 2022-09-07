@@ -21,7 +21,7 @@ jobs:
       - name: Commit the new cosmos.config.json file
         run: |-
           git diff
-          git config --global user.email "contact.atmoner@gmail.com"
-          git config --global user.name "atmoner"
+          git config --global user.email "info@bitcanna.io"
+          git config --global user.name "BitCannaGlobal"
           git diff --quiet || (git add cosmos.config.json && git commit -m "Update the cosmos.config.json file")
           git push origin main
