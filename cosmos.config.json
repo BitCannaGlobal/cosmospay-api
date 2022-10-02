@@ -18,7 +18,7 @@
     "coingeckoId": "bitcanna",
     "mintscanId": "bitcanna",
     "active": "true",
-    "lastUpdate": "2022-10-01T18:20:58.530Z"
+    "lastUpdate": "2022-10-02T01:50:37.428Z"
   },
   {
     "chainId": "chihuahua-1",
@@ -39,7 +39,7 @@
     "coingeckoId": "chihuahua-token",
     "mintscanId": "chihuahua",
     "active": "true",
-    "lastUpdate": "2022-10-01T18:20:58.530Z"
+    "lastUpdate": "2022-10-02T01:50:37.428Z"
   },
   {
     "chainId": "stargaze-1",
@@ -60,13 +60,13 @@
     "coingeckoId": "stargaze",
     "mintscanId": "stargaze",
     "active": "true",
-    "lastUpdate": "2022-10-01T18:20:58.530Z"
+    "lastUpdate": "2022-10-02T01:50:37.428Z"
   },
   {
     "chainId": "akashnet-2",
     "name": "Akash",
-    "apiURL": "https://rest-akash.ecostake.com",
-    "rpcURL": "https://rpc-akash.ecostake.com:443",
+    "apiURL": "https://api.akash.forbole.com:443",
+    "rpcURL": "https://rpc.akash.forbole.com:443",
     "coinLookup": {
       "viewDenom": "AKT",
       "chainDenom": "uakt",
@@ -81,7 +81,7 @@
     "coingeckoId": "akash-network",
     "mintscanId": "akash",
     "active": "true",
-    "lastUpdate": "2022-10-01T18:20:58.530Z"
+    "lastUpdate": "2022-10-02T01:50:37.428Z"
   },
   {
     "chainId": "osmosis-1",
@@ -103,6 +103,6 @@
     "coingeckoId": "osmosis",
     "mintscanId": "osmosis",
     "active": "true",
-    "lastUpdate": "2022-10-01T18:20:58.530Z"
+    "lastUpdate": "2022-10-02T01:50:37.428Z"
   }
 ]
