@@ -17,7 +17,27 @@ git checkout <your_branch_name>
 nano cosmos.config.json
 ```
 
-3. Edit cosmos.config.json and add your own config.
+3. Edit cosmos.config.json and add your own config.  
+Example:
+``` json
+  {
+    "chainId": "bitcanna-1",
+    "name": "BitCanna",
+    "apiURL": "https://lcd.bitcanna.io",
+    "rpcURL": "https://rpc.bitcanna.io/",
+    "coinLookup": {
+      "viewDenom": "BCNA",
+      "chainDenom": "ubcna",
+      "addressPrefix": "bcna",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg",
+      "banner": "https://demo.cosmos-tool.com//wp-content/plugins/cosmos-woocomerce/public/img/BitCanna.png"
+    },
+    "coingeckoId": "bitcanna",
+    "mintscanId": "bitcanna",
+    "active": "true",
+    "lastUpdate": "2022-10-03T10:26:26.440Z"
+  }
+```  
 4. Commit and push to your fork
 
 ```
