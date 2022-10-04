@@ -1,0 +1,38 @@
+
+
+[
+  {
+    "chainId": "bitcanna-1",
+    "name": "BitCanna",
+    "apiURL": "https://lcd.bitcanna.io",
+    "rpcURL": "https://rpc.bitcanna.io/",
+    "coinLookup": {
+      "viewDenom": "BCNA",
+      "chainDenom": "ubcna",
+      "addressPrefix": "bcna",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg",
+      "banner": "https://demo.cosmos-tool.com//wp-content/plugins/cosmos-woocomerce/public/img/BitCanna.png"
+    },
+    "coingeckoId": "bitcanna",
+    "mintscanId": "bitcanna",
+    "active": "true",
+    "lastUpdate": "2022-10-04T06:29:54.242Z"
+  },
+  {
+    "chainId": "chihuahua-1",
+    "name": "Chihuahua",
+    "apiURL": "https://api.chihuahua.wtf",
+    "rpcURL": "https://rpc.chihuahua.wtf",
+    "coinLookup": {
+      "viewDenom": "HUAHUA",
+      "chainDenom": "uhuahua",
+      "addressPrefix": "chihuahua",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
+      "banner": ""
+    },
+    "coingeckoId": "chihuahua-token",
+    "mintscanId": "chihuahua",
+    "active": "true",
+    "lastUpdate": "2022-10-04T06:29:54.242Z"
+  },  
+]
