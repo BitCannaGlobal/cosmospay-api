@@ -14,13 +14,13 @@
     "coingeckoId": "bitcanna",
     "mintscanId": "bitcanna",
     "active": "true",
-    "lastUpdate": "2022-10-06T06:26:50.168Z"
+    "lastUpdate": "2022-10-06T11:33:21.018Z"
   },
   {
     "chainId": "juno-1",
     "name": "Juno",
-    "apiURL": "https://api.juno.interbloc.org",
-    "rpcURL": "https://rpc.juno.interbloc.org",
+    "apiURL": "https://lcd-juno.itastakers.com",
+    "rpcURL": "https://rpc-juno.whispernode.com",
     "coinLookup": {
       "viewDenom": "JUNO",
       "chainDenom": "ujuno",
@@ -31,6 +31,6 @@
     "coingeckoId": "juno-network",
     "mintscanId": "juno",
     "active": "true",
-    "lastUpdate": "2022-10-06T06:26:50.168Z"
-  }  
+    "lastUpdate": "2022-10-06T11:33:21.018Z"
+  }
 ]
