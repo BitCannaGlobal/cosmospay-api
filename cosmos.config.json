@@ -15,22 +15,5 @@
     "mintscanId": "bitcanna",
     "active": "true",
     "lastUpdate": "2022-10-06T11:33:21.018Z"
-  }/*,
-  {
-    "chainId": "juno-1",
-    "name": "Juno",
-    "apiURL": "https://lcd-juno.itastakers.com",
-    "rpcURL": "https://rpc-juno.whispernode.com",
-    "coinLookup": {
-      "viewDenom": "JUNO",
-      "chainDenom": "ujuno",
-      "addressPrefix": "juno",
-      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
-      "banner": ""
-    },
-    "coingeckoId": "juno-network",
-    "mintscanId": "juno",
-    "active": "true",
-    "lastUpdate": "2022-10-06T11:33:21.018Z"
-  }*/
+  }
 ]
