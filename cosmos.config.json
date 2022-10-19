@@ -15,5 +15,56 @@
     "mintscanId": "bitcanna",
     "active": "true",
     "lastUpdate": "2022-10-19T12:38:11.876Z"
-  }
+  },
+  {
+    "chainId": "cosmoshub-4",
+    "name": "Atom",
+    "apiURL": "https://lcd-cosmoshub.blockapsis.com",
+    "rpcURL": "https://rpc-cosmoshub.blockapsis.com",
+    "coinLookup": {
+      "viewDenom": "ATOM",
+      "chainDenom": "uatom",
+      "addressPrefix": "cosmos",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
+      "banner": ""
+    },
+    "coingeckoId": "cosmos",
+    "mintscanId": "cosmos",
+    "active": "true",
+    "lastUpdate": "2022-10-19T12:38:11.876Z"
+  },
+  {
+    "chainId": "osmosis-1",
+    "name": "Osmosis",
+    "apiURL": "https://lcd.osmosis.zone",
+    "rpcURL": "https://rpc.osmosis.zone",
+    "coinLookup": {
+      "viewDenom": "OSMO",
+      "chainDenom": "uosmo",
+      "addressPrefix": "osmo",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+      "banner": ""
+    },
+    "coingeckoId": "osmosis",
+    "mintscanId": "osmosis",
+    "active": "true",
+    "lastUpdate": "2022-10-19T12:38:11.876Z"
+  },
+  {
+    "chainId": "juno-1",
+    "name": "Juno",
+    "apiURL": "https://lcd-juno.itastakers.com",
+    "rpcURL": "https://rpc-juno.whispernode.com",
+    "coinLookup": {
+      "viewDenom": "JUNO",
+      "chainDenom": "ujuno",
+      "addressPrefix": "juno",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
+      "banner": ""
+    },
+    "coingeckoId": "juno-network",
+    "mintscanId": "juno",
+    "active": "true",
+    "lastUpdate": "2022-10-19T12:38:11.876Z"
+  }    
 ]
