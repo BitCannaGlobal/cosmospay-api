@@ -14,7 +14,7 @@
     "coingeckoId": "bitcanna",
     "mintscanId": "bitcanna",
     "active": "true",
-    "lastUpdate": "2022-10-19T14:10:14.288Z"
+    "lastUpdate": "2022-10-19T18:32:15.879Z"
   },
   {
     "chainId": "cosmoshub-4",
@@ -31,7 +31,7 @@
     "coingeckoId": "cosmos",
     "mintscanId": "cosmos",
     "active": "true",
-    "lastUpdate": "2022-10-19T14:10:14.288Z"
+    "lastUpdate": "2022-10-19T18:32:15.879Z"
   },
   {
     "chainId": "osmosis-1",
@@ -48,7 +48,7 @@
     "coingeckoId": "osmosis",
     "mintscanId": "osmosis",
     "active": "true",
-    "lastUpdate": "2022-10-19T14:10:14.288Z"
+    "lastUpdate": "2022-10-19T18:32:15.879Z"
   },
   {
     "chainId": "juno-1",
@@ -65,6 +65,6 @@
     "coingeckoId": "juno-network",
     "mintscanId": "juno",
     "active": "true",
-    "lastUpdate": "2022-10-19T14:10:14.288Z"
+    "lastUpdate": "2022-10-19T18:32:15.879Z"
   }
 ]
