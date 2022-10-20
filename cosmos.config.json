@@ -15,5 +15,22 @@
     "mintscanId": "bitcanna",
     "active": "true",
     "lastUpdate": "2022-10-20T06:31:17.387Z"
+  },
+  {
+    "chainId": "cosmoshub-4",
+    "name": "Atom",
+    "apiURL": "https://api.cosmos.silknodes.io",
+    "rpcURL": "https://rpc.cosmos.silknodes.io",
+    "coinLookup": {
+      "viewDenom": "ATOM",
+      "chainDenom": "uatom",
+      "addressPrefix": "cosmos",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
+      "banner": ""
+    },
+    "coingeckoId": "cosmos",
+    "mintscanId": "cosmos",
+    "active": "true",
+    "lastUpdate": "2022-10-20T06:31:17.387Z"
   }
 ]
