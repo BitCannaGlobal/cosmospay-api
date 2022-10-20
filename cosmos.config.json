@@ -32,5 +32,22 @@
     "mintscanId": "cosmos",
     "active": "true",
     "lastUpdate": "2022-10-20T06:31:17.387Z"
+  },
+  {
+    "chainId": "osmosis-1",
+    "name": "Osmosis",
+    "apiURL": "https://osmosis.nodejumper.io:1317",
+    "rpcURL": "https://osmosis.nodejumper.io",
+    "coinLookup": {
+      "viewDenom": "OSMO",
+      "chainDenom": "uosmo",
+      "addressPrefix": "osmo",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+      "banner": ""
+    },
+    "coingeckoId": "osmosis",
+    "mintscanId": "osmosis",
+    "active": "true",
+    "lastUpdate": "2022-10-20T06:31:17.387Z"
   }
 ]
