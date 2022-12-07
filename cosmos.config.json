@@ -19,8 +19,8 @@
   {
     "chainId": "cosmoshub-4",
     "name": "Atom",
-    "apiURL": "https://api.cosmos.silknodes.io",
-    "rpcURL": "https://rpc.cosmos.silknodes.io",
+    "apiURL": "https://rest.cosmos.directory/cosmoshub",
+    "rpcURL": "https://rpc.cosmos.directory/cosmoshub",
     "coinLookup": {
       "viewDenom": "ATOM",
       "chainDenom": "uatom",
@@ -36,8 +36,8 @@
   {
     "chainId": "osmosis-1",
     "name": "Osmosis",
-    "apiURL": "https://osmosis.nodejumper.io:1317",
-    "rpcURL": "https://osmosis.nodejumper.io",
+    "apiURL": "https://rest.cosmos.directory/osmosis",
+    "rpcURL": "https://rpc.cosmos.directory/osmosis",
     "coinLookup": {
       "viewDenom": "OSMO",
       "chainDenom": "uosmo",
