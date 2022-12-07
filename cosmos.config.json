@@ -53,8 +53,8 @@
   {
     "chainId": "juno-1",
     "name": "Juno",
-    "apiURL": "https://juno.nodejumper.io:1317",
-    "rpcURL": "https://juno.nodejumper.io",
+    "apiURL": "https://api.juno.chaintools.tech",
+    "rpcURL": "https://rpc.juno.chaintools.tech",
     "coinLookup": {
       "viewDenom": "JUNO",
       "chainDenom": "ujuno",
