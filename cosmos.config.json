@@ -54,7 +54,7 @@
     "chainId": "juno-1",
     "name": "Juno",
     "apiURL": "https://api.juno.chaintools.tech",
-    "rpcURL": "https://rpc.juno.chaintools.tech",
+    "rpcURL": "https://rpc.cosmos.directory/juno",
     "coinLookup": {
       "viewDenom": "JUNO",
       "chainDenom": "ujuno",
