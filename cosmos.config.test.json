@@ -22,7 +22,7 @@
     "chainId": "cosmoshub-4",
     "name": "Atom",
     "apiURL": "https://cosmos-lcd.bitcanna.io",
-    "rpcURL": "https://cosmos-rpc.bitcanna.io",
+    "rpcURL": "https://cosmos-rpcs.bitcanna.io",
     "apiRegistryURL": "https://rest.cosmos.directory/cosmoshub",
     "rpcRegistryURL": "https://rpc.cosmos.directory/cosmoshub",    
     "coinLookup": {
