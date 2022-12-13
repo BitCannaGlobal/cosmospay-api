@@ -17,6 +17,57 @@
     "lastUpdate": "2022-10-04T06:29:54.242Z"
   },
   {
+    "chainId": "cosmoshub-4",
+    "name": "Atom",
+    "apiURL": "https://cosmos-lcd.bitcanna.io",
+    "rpcURL": "https://cosmos-rpc.bitcanna.io",
+    "coinLookup": {
+      "viewDenom": "ATOM",
+      "chainDenom": "uatom",
+      "addressPrefix": "cosmos",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
+      "banner": ""
+    },
+    "coingeckoId": "cosmos",
+    "mintscanId": "cosmos",
+    "active": "true",
+    "lastUpdate": "2022-10-20T06:31:17.387Z"
+  },
+  {
+    "chainId": "osmosis-1",
+    "name": "Osmosis",
+    "apiURL": "https://osmosis-lcd.bitcanna.io",
+    "rpcURL": "https://osmosis-rpc.bitcanna.io",
+    "coinLookup": {
+      "viewDenom": "OSMO",
+      "chainDenom": "uosmo",
+      "addressPrefix": "osmo",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+      "banner": ""
+    },
+    "coingeckoId": "osmosis",
+    "mintscanId": "osmosis",
+    "active": "true",
+    "lastUpdate": "2022-10-20T06:31:17.387Z"
+  },
+  {
+    "chainId": "juno-1",
+    "name": "Juno",
+    "apiURL": "https://juno-lcd.bitcanna.io",
+    "rpcURL": "https://juno-rpc.bitcanna.io",
+    "coinLookup": {
+      "viewDenom": "JUNO",
+      "chainDenom": "ujuno",
+      "addressPrefix": "juno",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
+      "banner": ""
+    },
+    "coingeckoId": "juno-network",
+    "mintscanId": "juno",
+    "active": "true",
+    "lastUpdate": "2022-10-20T06:31:17.387Z"
+  },  
+  {
     "chainId": "chihuahua-1",
     "name": "Chihuahua",
     "apiURL": "https://api.chihuahua.wtf",
