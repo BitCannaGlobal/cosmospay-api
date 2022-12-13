@@ -4,6 +4,8 @@
     "name": "BitCanna",
     "apiURL": "https://lcd.bitcanna.io",
     "rpcURL": "https://rpc.bitcanna.io/",
+    "apiRegistryURL": "https://rest.cosmos.directory/bitcanna",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/bitcanna",
     "coinLookup": {
       "viewDenom": "BCNA",
       "chainDenom": "ubcna",
@@ -21,6 +23,8 @@
     "name": "Atom",
     "apiURL": "https://cosmos-lcd.bitcanna.io",
     "rpcURL": "https://cosmos-rpc.bitcanna.io",
+    "apiRegistryURL": "https://rest.cosmos.directory/cosmoshub",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/cosmoshub",    
     "coinLookup": {
       "viewDenom": "ATOM",
       "chainDenom": "uatom",
@@ -38,6 +42,8 @@
     "name": "Osmosis",
     "apiURL": "https://osmosis-lcd.bitcanna.io",
     "rpcURL": "https://osmosis-rpc.bitcanna.io",
+    "apiRegistryURL": "https://rest.cosmos.directory/osmosis",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/osmosis",      
     "coinLookup": {
       "viewDenom": "OSMO",
       "chainDenom": "uosmo",
@@ -55,6 +61,8 @@
     "name": "Juno",
     "apiURL": "https://juno-lcd.bitcanna.io",
     "rpcURL": "https://juno-rpc.bitcanna.io",
+    "apiRegistryURL": "https://rest.cosmos.directory/juno",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/juno",        
     "coinLookup": {
       "viewDenom": "JUNO",
       "chainDenom": "ujuno",
@@ -72,6 +80,8 @@
     "name": "Chihuahua",
     "apiURL": "https://api.chihuahua.wtf",
     "rpcURL": "https://rpc.chihuahua.wtf",
+    "apiRegistryURL": "https://rest.cosmos.directory/chihuahua",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/chihuahua",  
     "coinLookup": {
       "viewDenom": "HUAHUA",
       "chainDenom": "uhuahua",
