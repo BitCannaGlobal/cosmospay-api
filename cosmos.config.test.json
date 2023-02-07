@@ -19,6 +19,25 @@
     "lastUpdate": "2022-10-04T06:29:54.242Z"
   },
   {
+    "chainId": "stargaze-1",
+    "name": "Stargaze",
+    "apiURL": "https://rest.stargaze-apis.com/",
+    "rpcURL": "https://rpc.stargaze-apis.com/",
+    "apiRegistryURL": "https://rest.cosmos.directory/stargaze",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/stargaze",
+    "coinLookup": {
+      "viewDenom": "STARS",
+      "chainDenom": "ustars",
+      "addressPrefix": "stars",
+      "icon": "https://raw.githubusercontent.com/public-awesome/docs/main/.gitbook/assets/stargaze_star_gradient.svg",
+      "banner": "https://raw.githubusercontent.com/public-awesome/docs/main/.gitbook/assets/stargaze_star_gradient.svg"
+    },
+    "coingeckoId": "stargaze",
+    "mintscanId": "stargaze",
+    "active": "true",
+    "lastUpdate": "2022-10-04T06:29:54.242Z"
+  },  
+  {
     "chainId": "cosmoshub-4",
     "name": "Atom",
     "apiURL": "https://cosmos-lcd.bitcanna.io",
