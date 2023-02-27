@@ -74,5 +74,24 @@
     "mintscanId": "juno",
     "active": "true",
     "lastUpdate": "2022-10-20T06:31:17.387Z"
-  }
+  },
+  {
+    "chainId": "stargaze-1",
+    "name": "Stargaze",
+    "apiURL": "https://rest.stargaze-apis.com/",
+    "rpcURL": "https://rpc.stargaze-apis.com/",
+    "apiRegistryURL": "https://rest.cosmos.directory/stargaze",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/stargaze",
+    "coinLookup": {
+      "viewDenom": "STARS",
+      "chainDenom": "ustars",
+      "addressPrefix": "stars",
+      "icon": "https://raw.githubusercontent.com/public-awesome/docs/main/.gitbook/assets/stargaze_star_gradient.svg",
+      "banner": "https://raw.githubusercontent.com/public-awesome/docs/main/.gitbook/assets/stargaze_star_gradient.svg"
+    },
+    "coingeckoId": "stargaze",
+    "mintscanId": "stargaze",
+    "active": "true",
+    "lastUpdate": "2023-02-37T00:00:00.000Z"
+  }   
 ]
