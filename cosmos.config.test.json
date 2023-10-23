@@ -19,6 +19,25 @@
     "lastUpdate": "2022-10-04T06:29:54.242Z"
   },
   {
+    "chainId": "bitcanna-dev-6",
+    "name": "Bitcanna-testnet",
+    "apiURL": "https://lcd-devnet-6.bitcanna.io",
+    "rpcURL": "https://rpc-devnet-6.bitcanna.io",
+    "apiRegistryURL": "https://lcd-devnet-6.bitcanna.io",
+    "rpcRegistryURL": "https://rpc-devnet-6.bitcanna.io",
+    "coinLookup": {
+      "viewDenom": "BCNA",
+      "chainDenom": "ubcna",
+      "addressPrefix": "bcna",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg",
+      "banner": "https://demo.cosmos-tool.com//wp-content/plugins/cosmos-woocomerce/public/img/BitCanna.png"
+    },
+    "coingeckoId": "bitcanna",
+    "mintscanId": "bitcanna",
+    "active": "true",
+    "lastUpdate": "2023-10-23T00:00:00.242Z"
+  },
+  {
     "chainId": "stargaze-1",
     "name": "Stargaze",
     "apiURL": "https://rest.stargaze-apis.com/",
