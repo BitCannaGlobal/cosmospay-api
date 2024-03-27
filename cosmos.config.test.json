@@ -16,6 +16,8 @@
     "coingeckoId": "bitcanna",
     "mintscanId": "bitcanna",
     "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "0.0025",
     "lastUpdate": "2022-10-04T06:29:54.242Z"
   },
   {
@@ -35,6 +37,8 @@
     "coingeckoId": "bitcanna",
     "mintscanId": "bitcanna",
     "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "0.0025",
     "lastUpdate": "2023-10-23T00:00:00.242Z"
   },
   {
@@ -73,6 +77,8 @@
     "coingeckoId": "cosmos",
     "mintscanId": "cosmos",
     "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "0.025",
     "lastUpdate": "2022-10-20T06:31:17.387Z"
   },
   {
@@ -92,6 +98,8 @@
     "coingeckoId": "osmosis",
     "mintscanId": "osmosis",
     "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "0.025",
     "lastUpdate": "2022-10-20T06:31:17.387Z"
   },
   {
@@ -111,6 +119,8 @@
     "coingeckoId": "juno-network",
     "mintscanId": "juno",
     "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "0.025",
     "lastUpdate": "2022-10-20T06:31:17.387Z"
   },  
   {
@@ -130,6 +140,8 @@
     "coingeckoId": "chihuahua-token",
     "mintscanId": "chihuahua",
     "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "4000",
     "lastUpdate": "2022-10-04T06:29:54.242Z"
   }
 ]
