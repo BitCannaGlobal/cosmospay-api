@@ -65,8 +65,8 @@
   {
     "chainId": "juno-1",
     "name": "Juno",
-    "apiURL": "https://juno-lcd.bitcanna.io",
-    "rpcURL": "https://juno-rpc.bitcanna.io",
+    "apiURL": "https://rest.cosmos.directory/juno",
+    "rpcURL": "https://rpc.cosmos.directory/juno",
     "apiRegistryURL": "https://rest.cosmos.directory/juno",
     "rpcRegistryURL": "https://rpc.cosmos.directory/juno",        
     "coinLookup": {
