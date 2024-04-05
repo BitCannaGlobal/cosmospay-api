@@ -143,5 +143,27 @@
     "feeMultiplier": "3",
     "gasPrice": "4000",
     "lastUpdate": "2022-10-04T06:29:54.242Z"
-  }
+  },
+  {
+    "chainId": "archway-1",
+    "name": "Astrovault AXV",
+    "apiURL": "https://api.mainnet.archway.io",
+    "rpcURL": "https://rpc.mainnet.archway.io",
+    "apiRegistryURL": "https://rest.cosmos.directory/archway",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/archway",  
+    "contract": "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
+    "coinLookup": {
+      "viewDenom": "AXV",
+      "chainDenom": "aarch",
+      "addressPrefix": "archway",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/axv.svg",
+      "banner": ""
+    },
+    "coingeckoId": "astrovault",
+    "mintscanId": "archway",
+    "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "254800000000",
+    "lastUpdate": "2022-10-04T06:29:54.242Z"
+  }  
 ]
