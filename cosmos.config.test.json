@@ -165,5 +165,26 @@
     "feeMultiplier": "3",
     "gasPrice": "254800000000",
     "lastUpdate": "2022-10-04T06:29:54.242Z"
-  }  
+  },
+  {
+    "chainId": "Neutaro-1",
+    "name": "Timpi",
+    "apiURL": "https://api2.neutaro.tech",
+    "rpcURL": "https://rpc2.neutaro.tech:443/",
+    "apiRegistryURL": "https://rest.cosmos.directory/neutaro",
+    "rpcRegistryURL": "https://rpc.cosmos.directory/neutaro",
+    "coinLookup": {
+      "viewDenom": "NEUTARO",
+      "chainDenom": "uneutaro",
+      "addressPrefix": "neutaro",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutaro/images/neutaro.svg",
+      "banner": ""
+    },
+    "coingeckoId": "neutaro",
+    "mintscanId": "bitcanna",
+    "active": "true",
+    "feeMultiplier": "3",
+    "gasPrice": "0.0025",
+    "lastUpdate": "2024-05-23T06:29:54.242Z"
+  }
 ]
